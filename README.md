@@ -1,6 +1,6 @@
 # Python AI Utilities
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Docs](https://img.shields.io/badge/docs-designs%2FREADME.md-blue)](designs/README.md) [![Issues](https://img.shields.io/github/issues/Debasnan10/System-Design-Showcases)](https://github.com/Debasnan10/System-Design-Showcases/issues)
 
 Small, reusable Python utilities for AI workflows: text cleaning, file-to-text conversion, chunking for embeddings, simple CSV/JSON helpers, and an embeddings wrapper that supports OpenAI, Hugging Face, and a local deterministic fallback for offline/testing use.
 
